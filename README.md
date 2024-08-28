@@ -2,7 +2,7 @@
 ---
 ### Rationale behind this repository
 I noticed that using this version(5.0.0) of the app, i am able to mark attendance without going to class.  
-The app asks you to update it but you can bypass it by following the instructions below.
+The app asks you to update it but you can bypass it by following the instructions below.*
 
 ## Instructions
 - Goto Settings->Apps->Attendance->Storage
@@ -19,3 +19,7 @@ The app asks you to update it but you can bypass it by following the instruction
   - Type usename & password
   - Turn on mobile data & immediately click login
 - Once you have logged-in, pop-up appears only once or twice which can be closed normally
+---
+### *Disclaimer
+The above steps may not work on your phone.  
+This app may not work in future due to api changes or other possible reasons.
