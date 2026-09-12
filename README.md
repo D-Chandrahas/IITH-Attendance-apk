@@ -1,3 +1,5 @@
+# WARNING: This repo is outdated
+
 ### Click [here](https://github.com/D-Chandrahas/IITH-Attendance-apk/raw/main/IIT%20Hyderabad-ERP_5.0.0.apk) to download the apk. Please read below before using it.
 ---
 ### Rationale behind this repository
